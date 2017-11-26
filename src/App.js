@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import './styles/App.css'
 import ActionCable from 'actioncable'
-import SimpleMap from './Map'
+import SimpleMap from './components/Map'
+import SideBarLeft from './components/SideBarLeft'
+import SideBarRight from './components/SideBarRight'
 
 class App extends Component {
 
@@ -9,12 +11,12 @@ class App extends Component {
     super(props)
 
     this.state = {
-      reports: {}
+      reports: []
     }
 
     this.handleReportsUpdates = this.handleReportsUpdates.bind(this)
 
-    const cable = ActionCable.createConsumer('ws://localhost:3005/cable')
+    const cable = ActionCable.createConsumer('ws://egov-api.herokuapp.com/cable')
 
     this.sub = cable.subscriptions.create('ReportsChannel', {
       received: this.handleReportsUpdates
@@ -22,7 +24,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    setTimeout(()=>window.fetch('http://localhost:3005/start'), 2000)
+    setTimeout(()=>window.fetch('https://egov-api.herokuapp.com/start'), 2000)
   }
 
   handleReportsUpdates(reports){
@@ -31,9 +33,13 @@ class App extends Component {
 
   render() {
     return (
-      <SimpleMap
-        reports={this.state.reports}
-      />
+      <div>
+        <SideBarLeft />
+        <SimpleMap
+          reports={this.state.reports}
+        />
+        <SideBarRight length={this.state.reports.length} />
+      </div>
     )
   }
 }

@@ -1,7 +1,7 @@
 .report-icon {
-  width: 64px;
-  height: 64px;
-  -webkit-mask: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDMzLjIwNSAzMy4yMDUiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMzLjIwNSAzMy4yMDU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4Ij4KPGc+Cgk8cGF0aCBkPSJNMTYuNjAzLDE3LjkwOGMtMy4xMzEsMC01LjY3OS0yLjU0OC01LjY3OS01LjY4czIuNTQ3LTUuNjgsNS42NzktNS42OHM1LjY3OSwyLjU0OCw1LjY3OSw1LjY4ICAgUzE5LjczNCwxNy45MDgsMTYuNjAzLDE3LjkwOHogTTE2LjYwMyw3LjU0OWMtMi41OCwwLTQuNjc5LDIuMDk5LTQuNjc5LDQuNjhzMi4wOTksNC42OCw0LjY3OSw0LjY4czQuNjc5LTIuMDk5LDQuNjc5LTQuNjggICBTMTkuMTgzLDcuNTQ5LDE2LjYwMyw3LjU0OXoiIGZpbGw9IiMwMDAwMDAiLz4KCTxnPgoJCTxwYXRoIGQ9Ik0xNi42MDMsMzMuMjA1Yy0wLjE0OCwwLTAuMjg4LTAuMDY1LTAuMzgzLTAuMTc5QzE1LjczNiwzMi40NDksNC4zNzYsMTguODExLDQuMzc2LDEyLjIyOUM0LjM3Niw1LjQ4Niw5Ljg2MSwwLDE2LjYwMywwICAgIHMxMi4yMjcsNS40ODYsMTIuMjI3LDEyLjIyOWMwLDYuNTgzLTExLjM2LDIwLjIyLTExLjg0MywyMC43OThDMTYuODkxLDMzLjE0LDE2Ljc1LDMzLjIwNSwxNi42MDMsMzMuMjA1eiBNMTYuNjAzLDEgICAgQzEwLjQxMiwxLDUuMzc2LDYuMDM3LDUuMzc2LDEyLjIyOWMwLDUuNTcxLDkuMjE2LDE3LjIxNSwxMS4yMjcsMTkuNjg4YzIuMDEtMi40NzQsMTEuMjI3LTE0LjExOCwxMS4yMjctMTkuNjg4ICAgIEMyNy44MjksNi4wMzcsMjIuNzkzLDEsMTYuNjAzLDF6IiBmaWxsPSIjMDAwMDAwIi8+Cgk8L2c+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPC9zdmc+Cg==)
+  width: 32px;
+  height: 32px;
+  -webkit-mask: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTguMS4xLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNCAyNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSIzMnB4IiBoZWlnaHQ9IjMycHgiPgo8Zz4KCTxwYXRoIGQ9Ik0xMiwwQzUuMzczLDAsMCw1LjM3MywwLDEyczUuMzczLDEyLDEyLDEyczEyLTUuMzczLDEyLTEyUzE4LjYyNywwLDEyLDB6IE0xMiwxOS42NiAgIGMtMC45MzgsMC0xLjU4LTAuNzIzLTEuNTgtMS42NmMwLTAuOTY0LDAuNjY5LTEuNjYsMS41OC0xLjY2YzAuOTYzLDAsMS41OCwwLjY5NiwxLjU4LDEuNjZDMTMuNTgsMTguOTM4LDEyLjk2MywxOS42NiwxMiwxOS42NnogICAgTTEyLjYyMiwxMy4zMjFjLTAuMjM5LDAuODE1LTAuOTkyLDAuODI5LTEuMjQzLDBjLTAuMjg5LTAuOTU2LTEuMzE2LTQuNTg1LTEuMzE2LTYuOTQyYzAtMy4xMSwzLjg5MS0zLjEyNSwzLjg5MSwwICAgQzEzLjk1Myw4Ljc1LDEyLjg3MSwxMi40NzMsMTIuNjIyLDEzLjMyMXoiIGZpbGw9IiMwMDAwMDAiLz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8L3N2Zz4K)
 }
 .loading-wrap{
   width: 100%;
@@ -12,4 +12,80 @@
   background-image: url('loading.gif');
   background-repeat: no-repeat;
   background-position: center;
+}
+
+.report-modal{
+  position: absolute;
+  left:0;
+  right:0;
+  margin-left:auto;
+  margin-right:auto;
+  top:0;
+  bottom:0;
+  margin-top:auto;
+  margin-bottom:auto;
+  background-color: rgba(255,255,255, 0.9);
+  z-index: 99;
+  padding: 1rem;
+  width: 80%;
+  height: 80%;
+  font-size: 1.2rem;
+  overflow-y: auto;
+  border-radius: 1%;
+}
+
+.report-modal .title{
+  color: grey;
+  margin-bottom: 5px;
+}
+
+.report-modal .close-modal{
+  cursor: pointer;
+  position: absolute;
+  top: -30px;
+  right: 10px;
+  font-size: 2rem;
+  color: gray
+}
+
+.error-notification{
+  text-align: center;
+  background-color: red;
+  padding: 1rem;
+  color: white;
+}
+
+.sidebar{
+  position: absolute;
+  height: auto;
+  width: 70px;
+  font-size: 13px;
+  padding: 10px;
+  background-color: rgba(255,255,255, 0.6);
+  border-radius: 5px;
+  z-index: 9;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+.sidebar.left{
+  bottom: 30%;
+  left: 0;
+}
+
+.sidebar.right{
+  font-weight: bold;
+  bottom: 40%;
+  right: 0;
+}
+
+.sidebar.right p{
+  font-size: 2rem;
+}
+
+.sidebar .report-icon{
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
